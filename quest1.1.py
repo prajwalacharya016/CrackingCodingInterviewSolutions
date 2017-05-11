@@ -1,10 +1,10 @@
-def isuniquechar(str):
+def isuniquechar(mystr):
     charset=[]
-    if len(str)>256:
+    if len(mystr)>256:
         return False
     for i in range(0,256):
         charset.append(False)
-    for char in str:
+    for char in mystr:
         if charset[ord(char)]:
             return False
 
