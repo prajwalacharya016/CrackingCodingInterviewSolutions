@@ -11,4 +11,4 @@ def isuniquechar(mystr):
         charset[ord(char)]=True
     return True
 
-print isuniquechar("ABCDEFGHIJKLM")
+print isuniquechar("ABCDEFGAHIJKLM")
