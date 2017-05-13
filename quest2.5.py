@@ -1,6 +1,5 @@
 #Based on LeetCode solution.
-#Test cases according to LeetCode not done in here create a Listnode object
-#LLinkedList Soltion
+
 # class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
