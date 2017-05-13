@@ -1,5 +1,5 @@
-#Based on LeetCode solution. Solution execution time 93% percentile
-#Test cases according to LeetCode not done in here create a Listnoe object
+#Based on LeetCode solution.
+#Test cases according to LeetCode not done in here create a Listnode object
 #LLinkedList Soltion
 # class ListNode(object):
 #     def __init__(self, x):
