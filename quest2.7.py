@@ -19,6 +19,7 @@ def ispalindrome(l1):
     while True:
         if slow is None:
             break
+            
 
         if stack.pop().get_data() == slow.get_data():
             slow=slow.get_next()
