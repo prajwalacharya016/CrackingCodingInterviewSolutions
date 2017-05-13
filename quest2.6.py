@@ -31,5 +31,4 @@ n3 = Node(3,n4)
 n8.set_next(n3)
 n2 = Node(2,n3)
 n1 = Node(1,n2)
-
 print returnbeginning(n1).get_data()
