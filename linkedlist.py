@@ -31,6 +31,8 @@ class LinkedList(object):
     def printlist(self):
         current = self.first
         while True:
+            if current is None:
+                break
             if current.get_next() is None:
                 print current.get_data()
                 break
