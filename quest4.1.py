@@ -1,5 +1,6 @@
 from binarytree import Tree
 def checkheight(root):
+    
     if (root is None):
         return 0
 
